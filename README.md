@@ -8,7 +8,7 @@
 
 # Front-end development
 
-# Hi There
+# Hi There Priyanshu pal
 
 <p>
 This is an open-source repository for all who want to learn front-end Development.</p>
